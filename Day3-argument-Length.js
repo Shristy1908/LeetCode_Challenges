@@ -3,4 +3,4 @@ var argumentsLength = function (...args) {
 };
 
 var lengthOfArg = argumentsLength(2, 3, 4);
-document.write("Argument Length" + lengthOfArg);
+document.write("Argument Length " + lengthOfArg);
