@@ -2,7 +2,6 @@
 //https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript
 // difficulty - Easy
 
-
 var createCounter = function (init) {
   let presentVal = init;
 
@@ -25,8 +24,8 @@ var createCounter = function (init) {
 };
 
 const counter = createCounter(5);
-let incrementedVal= counter.increment();
-let resetVal= counter.reset();
-let decrementedVal= counter.decrement();
+let incrementedVal = counter.increment();
+let resetVal = counter.reset();
+let decrementedVal = counter.decrement();
 
-document.write(incrementedVal,resetVal,decrementedVal);
+document.write(incrementedVal, resetVal, decrementedVal);
