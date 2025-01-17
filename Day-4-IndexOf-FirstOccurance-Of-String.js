@@ -7,4 +7,4 @@ var strStr = function (haystack, needle) {
 
 let result = strStr(heystack, needle);
 
-document.write(result);
+document.write(result)
