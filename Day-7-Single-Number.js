@@ -1,6 +1,6 @@
 //Single Number
 //https://leetcode.com/problems/single-number/?envType=problem-list-v2&envId=array
-//Difficulty - Easy
+//Difficulty -- Easy
 
 var nums = [1, 2, 2, 1, 4];
 
