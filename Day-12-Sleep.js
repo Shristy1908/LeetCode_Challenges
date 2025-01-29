@@ -3,7 +3,7 @@
 //Difficulty - Easy
 
 async function sleep(millis) {
-    return new Promise((resolve)=>setTimeout(resolve,millis));
+  return new Promise((resolve) => setTimeout(resolve, millis));
 }
 
 console.log(sleep(200));
